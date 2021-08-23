@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-FrontEnd Developer
-
-JavaScript & Dart & Rust & Go & Java 
-Php & Python & Node & TypeScript & Shell
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ans1998)](https://github.com/anuraghazra/github-readme-stats)
 
